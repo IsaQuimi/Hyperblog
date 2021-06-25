@@ -3,3 +3,5 @@ Esta es la clase de Maria
 maria quiere aprender mas rapido y ahora supo hacer un cambio para git
 
 maria se distrae mucho
+
+pero ella esta dandole todos los dias un poquito 
